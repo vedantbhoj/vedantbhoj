@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on full stack projects.
-- 🌱 I’m currently learning Advanced MERN/MEAN stack.
+- 🔭 I’m currently working on full stack engineering projects.
+- 🌱 I’m currently learning a lot of Front End, Back End and System Design.
 - 💬 Ask me about Full Stack Web Engineering
 - 📫 How to reach me: https://linktr.ee/vedant_bhoj
 - ⚡ Fun fact: I was born 69 days after 11/20
