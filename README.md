@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vedant][website] 👋
 
-## I'm a Engineer, Developer, Creator and Foodie!
+## I'm a Engineer, Developer, Creator and a Foodie!
 - 🔭 I’m currently working at a healthcare startup as an Associate Software Engineer
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Full Stack, Front End, Web Development
