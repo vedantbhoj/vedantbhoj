@@ -53,7 +53,7 @@
 
 ---
 
-<img align="left" alt="vedantbhoj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vedantbhoj&show_icons=true&hide_border=true" />
+<img align="left" alt="vedant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vedantbhoj&show_icons=true&hide_border=true" />
 
 [website]: https://vedantbhoj.com
 [twitter]: https://twitter.com/28_vedant
