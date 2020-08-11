@@ -47,6 +47,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [COVID 19 Live Tracker](https://vedantbhoj.com/blogs/2020/05/04/covid-19-live-tracker/)
+- [Connected Cars & Data Analytics Using Blockchain](https://vedantbhoj.com/blogs/2019/08/28/connected-cars-data-analytics-using-blockchain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
