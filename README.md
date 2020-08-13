@@ -36,7 +36,7 @@
 
 ### Scan to Connect:
 
-<img align="left" alt="https://linktr.ee/vedant_bhoj" width="180px" src="https://github.com/vedantbhoj/vedantbhoj/blob/master/linktree_vedant_bhoj.png" />
+<img align="left" alt="https://linktr.ee/vedant_bhoj" style="padding-right: 100%;padding-bottom: 2%;" width="180px" src="https://github.com/vedantbhoj/vedantbhoj/blob/master/linktree_vedant_bhoj.png" />
 <br/>
 
 ---
