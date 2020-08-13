@@ -57,12 +57,6 @@
 <img align="left" alt="vedant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vedantbhoj&show_icons=true&hide_border=true" />
 <br/>
 
----
-
-### Scan to Connect:
-
-<img align="left" alt="https://linktr.ee/vedant_bhoj" width="180px" src="https://github.com/vedantbhoj/vedantbhoj/blob/master/linktree_vedant_bhoj.png" />
-<br/>
 
 [website]: https://vedantbhoj.com
 [twitter]: https://twitter.com/28_vedant
