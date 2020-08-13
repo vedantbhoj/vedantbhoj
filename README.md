@@ -34,11 +34,6 @@
 
 <br/>
 
-### Scan to Connect:
-
-<img align="left" alt="https://linktr.ee/vedant_bhoj" style="padding-right: 100%;padding-bottom: 2%;" width="180px" src="https://github.com/vedantbhoj/vedantbhoj/blob/master/linktree_vedant_bhoj.png" />
-<br/>
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -60,6 +55,12 @@
 ---
 
 <img align="left" alt="vedant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vedantbhoj&show_icons=true&hide_border=true" />
+---
+
+### Scan to Connect:
+
+<img align="left" alt="https://linktr.ee/vedant_bhoj" width="180px" src="https://github.com/vedantbhoj/vedantbhoj/blob/master/linktree_vedant_bhoj.png" />
+<br/>
 
 [website]: https://vedantbhoj.com
 [twitter]: https://twitter.com/28_vedant
@@ -67,3 +68,4 @@
 [instagram]: https://www.instagram.com/vedant.bhoj
 [linkedin]: https://www.linkedin.com/in/vedantbhoj/
 [linktree]: https://linktr.ee/vedant_bhoj
+
