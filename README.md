@@ -6,24 +6,6 @@
 - 💬 Ask me about Full Stack, Front End, Web Development
 - ⚡ Fun fact: I love eating and cooking delicious food 🍜
 
-### Connect with me:
-
-[<img align="left" alt="vedantbhoj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vedantbhoj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="vedantbhoj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vedantbhoj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vedantbhoj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-
-### Scan to Connect:
-
-<img align="left" alt="https://linktr.ee/vedant_bhoj" width="180px" src="https://github.com/vedantbhoj/vedantbhoj/blob/master/linktree_vedant_bhoj.png" />
-<br/>
-<br/>
-
----
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -41,6 +23,21 @@
 
 <br />
 <br />
+
+### Connect with me:
+
+[<img align="left" alt="vedantbhoj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vedantbhoj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="vedantbhoj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vedantbhoj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vedantbhoj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
+### Scan to Connect:
+
+<img align="left" alt="https://linktr.ee/vedant_bhoj" width="180px" src="https://github.com/vedantbhoj/vedantbhoj/blob/master/linktree_vedant_bhoj.png" />
+<br/>
 
 ---
 
