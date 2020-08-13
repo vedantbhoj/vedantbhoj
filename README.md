@@ -18,7 +18,9 @@
 
 ### Scan to Connect:
 
-<img align="left" alt="https://linktr.ee/vedant_bhoj" src="https://github.com/vedantbhoj/vedantbhoj/blob/master/linktree_vedant_bhoj.png" />
+<img align="left" alt="https://linktr.ee/vedant_bhoj" width="180px" src="https://github.com/vedantbhoj/vedantbhoj/blob/master/linktree_vedant_bhoj.png" />
+<br/>
+<br/>
 
 ### Languages and Tools:
 
