@@ -55,6 +55,8 @@
 ---
 
 <img align="left" alt="vedant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vedantbhoj&show_icons=true&hide_border=true" />
+<br/>
+
 ---
 
 ### Scan to Connect:
