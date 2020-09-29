@@ -48,8 +48,8 @@
 
 
 <img align="left" alt="vedant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vedantbhoj&show_icons=true&hide_border=true" />
-
----
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantbhoj&hide=php&layout=compact)](https://github.com/vedantbhoj/)
 
