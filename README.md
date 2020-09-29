@@ -57,7 +57,7 @@
 <img align="left" alt="vedant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vedantbhoj&show_icons=true&hide_border=true" />
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantbhoj)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantbhoj&hide=php&layout=compact)](https://github.com/vedantbhoj/)
 
 [website]: https://vedantbhoj.com
 [twitter]: https://twitter.com/28_vedant
