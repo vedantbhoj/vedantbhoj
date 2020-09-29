@@ -46,6 +46,13 @@
 
 ---
 
+
+<img align="left" alt="vedant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vedantbhoj&show_icons=true&hide_border=true" />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantbhoj&hide=php&layout=compact)](https://github.com/vedantbhoj/)
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [COVID 19 Live Tracker](https://vedantbhoj.com/blogs/2020/05/04/covid-19-live-tracker/)
@@ -53,11 +60,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<img align="left" alt="vedant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vedantbhoj&show_icons=true&hide_border=true" />
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantbhoj&hide=php&layout=compact)](https://github.com/vedantbhoj/)
 
 [website]: https://vedantbhoj.com
 [twitter]: https://twitter.com/28_vedant
