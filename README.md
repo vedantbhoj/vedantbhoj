@@ -36,16 +36,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Car Management System based on Blockchain and Data Analytics](https://www.youtube.com/watch?v=EmloBPuF9ss)
-- [Linear Variable Differential Transformer (LVDT) | Micro Measurement Sensor](https://www.youtube.com/watch?v=okFGslv-gCQ)
-- [MarktPlatz - Cross Domain Online Shopping Application](https://www.youtube.com/watch?v=dT2U4Y_pgFk)
-- [Image Processing | Security based Face Recognition using Space, Scale and Orientation Domains](https://www.youtube.com/watch?v=ijZ7sdxD0Xo)
-<!-- YOUTUBE:END -->
-
----
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -61,6 +51,16 @@
     />
   </a>
 </p>
+
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Car Management System based on Blockchain and Data Analytics](https://www.youtube.com/watch?v=EmloBPuF9ss)
+- [Linear Variable Differential Transformer (LVDT) | Micro Measurement Sensor](https://www.youtube.com/watch?v=okFGslv-gCQ)
+- [MarktPlatz - Cross Domain Online Shopping Application](https://www.youtube.com/watch?v=dT2U4Y_pgFk)
+- [Image Processing | Security based Face Recognition using Space, Scale and Orientation Domains](https://www.youtube.com/watch?v=ijZ7sdxD0Xo)
+<!-- YOUTUBE:END -->
 
 ---
 
