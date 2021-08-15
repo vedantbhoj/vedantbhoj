@@ -58,9 +58,9 @@
 <!-- YOUTUBE:START -->
 - [The Weekend - Blinding Lights Piano Cover by Vedant Bhoj](https://www.youtube.com/watch?v=pfXheSB9mUI)
 - [Car Management System based on Blockchain and Data Analytics](https://www.youtube.com/watch?v=EmloBPuF9ss)
+- [Data Analytics with Blockchain - Symposium 2020](https://www.youtube.com/watch?v=3nUQAXBvwOE)
 - [Linear Variable Differential Transformer (LVDT) | Micro Measurement Sensor](https://www.youtube.com/watch?v=okFGslv-gCQ)
 - [MarktPlatz - Cross Domain Online Shopping Application](https://www.youtube.com/watch?v=dT2U4Y_pgFk)
-- [Image Processing | Security based Face Recognition using Space, Scale and Orientation Domains](https://www.youtube.com/watch?v=ijZ7sdxD0Xo)
 <!-- YOUTUBE:END -->
 
 ---
