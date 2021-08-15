@@ -56,7 +56,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [The Weekend - Blinding Lights Piano Cover by Vedant Bhoj](https://www.youtube.com/watch?v=pfXheSB9mUI)
+- [The Weeknd - Blinding Lights Piano Cover by Vedant Bhoj](https://www.youtube.com/watch?v=pfXheSB9mUI)
 - [Car Management System based on Blockchain and Data Analytics](https://www.youtube.com/watch?v=EmloBPuF9ss)
 - [Data Analytics with Blockchain - Symposium 2020](https://www.youtube.com/watch?v=3nUQAXBvwOE)
 - [Linear Variable Differential Transformer (LVDT) | Micro Measurement Sensor](https://www.youtube.com/watch?v=okFGslv-gCQ)
