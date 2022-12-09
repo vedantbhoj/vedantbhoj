@@ -72,7 +72,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[website]: https://vedantbhoj.com
+[website]: https://vedantbhoj.github.io/
 [twitter]: https://twitter.com/28_vedant
 [youtube]: https://www.youtube.com/channel/UCcHcNTnEa-y-IeXqT5q8JrA
 [instagram]: https://www.instagram.com/vedant.bhoj
